@@ -173,7 +173,7 @@ The FPL is updated each year. FPL as of [October 2022 - October 2023](http://ser
 
 ### Dataset
 
-- The ```data``` folder contains CSVs of the BBCE rules by state from 2010.08 to 2023.01
+- The ```data``` folder contains CSVs of the BBCE rules by state from 2010.08 to 2023.07
 
 ### Source
 
