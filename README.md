@@ -4,14 +4,14 @@ State broad-based categorical eligibility (BBCE) changes from 2010-2023
 
 ## What is BBCE?
 
-SNAP eligibilty rules are set at a federal level, with two of the income requirements being:
+SNAP eligibility rules are set at a federal level, with two of the income requirements being:
 
 - A gross income limit set at 130% of the Federal Poverty Level (FPL) 
 - An asset limit of $2,750 (also known as the resource limit)
 
 Households that include a member who is 60 or older or has a disability don't have to meet the gross income limit and have a higher asset limit. There is also a net income limit which under federal rules all households must meet.
 
-Broad-based categorical eligibility (BBCE) is a policy that allows states to set their own income and asset limits for SNAP. If a state has a BBCE policy, they can add a alternative path to SNAP eligibility with increased gross income limits and increased or removed asset limits.
+Broad-based categorical eligibility (BBCE) is a policy that allows states to set their own income and asset limits for SNAP. If a state has a BBCE policy, they can add an alternative path to SNAP eligibility with increased gross income limits and increased or removed asset limits.
 
 Here's the [USDA's definition:](https://www.fns.usda.gov/snap/broad-based-categorical-eligibility)
 
@@ -29,8 +29,8 @@ Chart shows the BBCE gross income limits as reported in the BBCE dataset. States
 
 Some datapoints were removed to make the chart more readable. 
 
-- Arizona had a few month increase from 185% to 200% in 2012
-- Florida had a few month decrease from 200% FPL to 130% FPL in 2013
+- Arizona had a few months increase from 185% to 200% in 2012
+- Florida had a few months decrease from 200% to 130% in 2013
 - Louisiana removed BBCE in 2014, added back in 2020
 - Mississippi removed BBCE in 2018
 
