@@ -25,7 +25,7 @@ States can increase the gross income limit for SNAP up to 200% FPL. This analysi
 
 ### Notes
 
-Chart shows the BBCE gross income limits. States that are at 0% on the chart still have SNAP eligibility under the federal eligibility rules, which have a 130% gross income limit. 
+Chart shows the BBCE gross income limits as reported in the BBCE dataset. States that are at 0% on the chart still have SNAP eligibility under the federal eligibility rules, which have a 130% gross income limit. 
 
 Some datapoints were removed to make the chart more readable. 
 
@@ -189,6 +189,7 @@ asset limit.
 percent of FPG. (Massachusetts)
 
 ### Other Notes
+- Louisiana increased their BBCE income limit from 130% to 200% on [July 1, 2022](http://www.dss.louisiana.gov/news/as-extra-snap-benefits-end-recipients-encouraged-to-update-info-assess-options), however this update does not appear in the BBCE dataset and is not included in the chart
 - Dataset may be missing changes between 2020-05 and 2022-06
 - Florida states 130% FPL in 2012-11, however has 200% FPL both a few months before and after
 - Arizona states 200% FPL in 2012-01 and 2012-11, however has 185% FPL both a few months before and after
